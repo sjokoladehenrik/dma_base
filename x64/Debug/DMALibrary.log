@@ -1,0 +1,211 @@
+﻿  pch.cpp
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(124,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(124,11):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(491,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(491,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(500,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\leechcore.h(500,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(394,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(394,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1456,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1456,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1466,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1466,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1473,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1473,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1482,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1482,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1491,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1491,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1507,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1507,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1517,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1517,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1526,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1526,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1534,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1534,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1541,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1541,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1550,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1550,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1561,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1561,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1570,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1570,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1578,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1578,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1587,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1587,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1596,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1596,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1605,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(1605,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(2140,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'pch.cpp')
+      C:\Dev\dma-cheat-base-main\DMALibrary\libs\vmmdll.h(2140,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  InputManager.cpp
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\InputManager.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Memory/InputManager.cpp')
+  
+  Memory.cpp
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(231,55): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(326,67): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(330,66): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(342,64): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(368,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(404,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(478,118): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(624,58): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(661,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(690,96): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(700,80): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(711,97): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(723,81): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(754,49): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Memory.cpp(762,80): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Memory/Memory.cpp')
+  
+  Registry.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(4829,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file '/Memory/Registry.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(4829,18):
+      the template instantiation context (the oldest one first) is
+          C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Registry.cpp(26,20):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Registry.cpp(26,2):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'c_registry::QueryValue'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(788,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(944,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Shellcode.cpp
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Shellcode.cpp(23,68): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Shellcode.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Shellcode.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Memory/Shellcode.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Shellcode.cpp(48,64): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Shellcode.cpp')
+  
+C:\Dev\dma-cheat-base-main\DMALibrary\Memory\Shellcode.cpp(55,61): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Memory/Shellcode.cpp')
+  
+  DMALibrary.cpp
+  Generating Code...
+  DMALibrary.vcxproj -> C:\Dev\dma-cheat-base-main\x64\Debug\DMALibrary.lib
